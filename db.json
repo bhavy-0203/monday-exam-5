@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "d429",
+      "name": "Pendo",
+      "email": "pendo@pendo.com",
+      "password": "pen"
+    },
+    {
+      "id": "cd7f",
+      "name": "jaydip",
+      "email": "hello@jaydip.com",
+      "password": "0123654789"
+    }
+  ]
+}
